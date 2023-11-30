@@ -1,0 +1,56 @@
+<html>
+
+<head>
+
+<title>ivylou</title>
+
+
+<link type="text/css" rel="stylesheet" href="textstyle.css" media="screen" />
+
+
+<style type="text/css">p.bg {background:#FFf}</style>
+
+
+
+</head>
+
+<body>
+
+
+
+
+
+<body bgcolor="#FAFAD2">
+
+
+<div id="Layer10" style="position:absolute; z-index:0; left: 15px; top: 0px; width: 865px;">
+
+
+<P><center><font face="Georgia" size="+5" color="#A6C0C5">My House</font></center><br><br><font face="Georgia">My house, and the things in it, could always be 'better' - it's a constant project. I love leafing through magazines, and stumbling across home decor sites on the web, just to have a nosey at what other people do with their homes. I would love, one day, to live in a fairly old house, with a stunningly beautiful kitchen, and cram it with lovely vintage stuff. Until then, I will make do with what I have. <br><br> Here are some of the bits of our current home that I am particularly fond of.</P>
+<br><br>
+<center>
+<img style="border:1px solid #996600; padding:1px" src="images/chairsmall.jpg" height="200" width="300" /> <br><font face="Georgia">My Quiet Little Corner of the World<br><br>
+
+<img style="border:1px solid #996600; padding:1px" src="images/teacup.jpg" height="200" width="300" /> <br><font face="Georgia">Candles & Tea - should be a brand all of it's own<br><br>
+
+<img style="border:1px solid #996600; padding:1px" src="images/tulips.jpg" height="200" width="300" /> <br><font face="Georgia">I Heart Tulips <br><br>
+
+<img style="border:1px solid #996600; padding:1px" src="images/stairs.jpg" height="200" width="300" /> <br><font face="Georgia">Fairy Lights and Fancy Photos <br><br>
+
+<img style="border:1px solid #996600; padding:1px" src="images/typewriter.jpg" height="200" width="300" /> <br><font face="Georgia">My Pride & Joy <br><br>
+
+<img style="border:1px solid #996600; padding:1px" src="images/kitchen.jpg" height="200" width="300" /> <br><font face="Georgia">My Kitchen - The Land of Creation <br><br>
+
+<img style="border:1px solid #996600; padding:1px" src="images/vintage.jpg" height="200" width="300" /> <br><font face="Georgia">Fairy Lights, Photos, Flowers, and Tea. :) <br><br>
+</div>
+
+</div>
+
+
+
+
+</div>
+</div> 
+
+</body>
+</html>
