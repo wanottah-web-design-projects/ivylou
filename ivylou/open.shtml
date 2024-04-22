@@ -1,0 +1,188 @@
+<html>
+
+<head>
+
+<title>Tailspin Toys</title>
+
+
+<link type="text/css" rel="stylesheet" href="textstyle.css" media="screen" />
+
+
+<style type="text/css">p.bg {background:#FFf}</style>
+
+
+
+</head>
+
+<body>
+
+
+
+<body bgcolor="#FAFAD2">
+
+
+<div id="Layer10" style="position:absolute; z-index:0; left: 11px; top: 4px; width: 865px;">
+
+
+<P><center><font face="Georgia" size="+5" color="#A6C0C5">Welcome</font><br><br> </P>
+
+
+<div style="padding:0px 10px;">
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="images/heart.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">My Crafts</a>
+
+</div>
+
+</div>
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="skin1/images/home-candle.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">##</a>
+
+</div>
+
+</div>
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="skin1/images/home-candle.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">##</a>
+
+</div>
+
+</div>
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="skin1/images/home-candle.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">##</a>
+
+</div>
+
+</div>
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="skin1/images/home-candle.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">##</a>
+
+</div>
+
+</div>
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="skin1/images/home-candle.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">##</a>
+
+</div>
+
+</div>
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="skin1/images/home-candle.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">##</a>
+
+</div>
+
+</div>
+
+
+
+
+<div style="padding:5px; margin:10px; float:left; text-align:center">
+
+<a href="#">
+
+<img style="border:1px solid #996600; padding:1px" src="skin1/images/home-candle.jpg" height="200" width="150" />
+</a>
+
+<div style="margin-top:5px">
+
+<a href="#">##</a>
+
+</div>
+
+</div>
+
+
+
+
+</div><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="ZQRFWF9K9XSXU">
+<input type="image" src="https://www.paypal.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div> 
+
+</body>
+</html>

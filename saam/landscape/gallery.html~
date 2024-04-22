@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>saam photography, gallery</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#000000">
+
+
+<table border="0" align="center">
+  
+  <tr>
+    <td>
+      <a href="001.html" target="main"><img src="thumbs/001.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>
+      <a href="002.html" target="main"><img src="thumbs/002.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>
+    <td>
+      <a href="003.html" target="main"><img src="thumbs/003.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>
+      <a href="004.html" target="main"><img src="thumbs/004.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>    <td>
+      <a href="005.html" target="main"><img src="thumbs/005.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>
+      <a href="006.html" target="main"><img src="thumbs/006.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>    <td>
+      <a href="007.html" target="main"><img src="thumbs/007.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>
+      <a href="008.html" target="main"><img src="thumbs/008.jpg" height="75" border="0"></a>
+    </td>
+    <td width="2"></td>
+    <td>
+
+  </tr>
+
+</table>
+</body>
+</html>

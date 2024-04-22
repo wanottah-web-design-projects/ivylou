@@ -1,0 +1,11 @@
+<html>
+
+<frameset rows="30,*,115" FRAMEBORDER=NO FRAMESPACING=0 BORDER=0>>
+  <frame name="navigation" src="navigation.html" scrolling="no">
+  <frame name="main" src="blank.html" scrolling="no">
+  <frame name="gallery" src="pgallery.html">
+
+</frameset>
+
+
+</html>
